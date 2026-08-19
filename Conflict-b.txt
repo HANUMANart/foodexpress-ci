@@ -1,2 +1,4 @@
-<<<<<<< HEAD
+
+This content is from Conflict-A branch
+Pull Request practice
 This content will be shown by Hanuman  Choudhary after solving conflict
